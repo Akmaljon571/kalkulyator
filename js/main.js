@@ -9,14 +9,14 @@ if (amal == 0){
 if(son1 && son2){
     
     if (amal == '+'){
-        console.log(son1+son2)
+        console.log('Natija ', son1+son2)
 
     } else if (amal == '-'){
-        console.log(son1 - son2);
+        console.log('Natija ',son1 - son2);
     }else if (amal == '*'){
-        console.log(son1 * son2);
+        console.log('Natija ',son1 * son2);
     } else if (amal == '/'){
-        console.log(son1 / son2);
+        console.log('Natija ',son1 / son2);
     } 
      else {
       alert('Hato amal kiritdingiz')
